@@ -1,0 +1,22 @@
+
+    .itemDetail {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+    }
+      
+      .button2 {
+        margin-top: 20px;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        background-color: green;
+      }
+      .buttonClose {
+        margin-top: 10px;
+      }
+    
+  

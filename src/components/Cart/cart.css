@@ -1,0 +1,22 @@
+
+    .itemCart {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+      }
+        
+        .buttonRemove {
+          margin-top: 20px;
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+          background-color: red;
+        }
+        
+        .margin-form{
+          margin-top: 30px;
+        }
+    
