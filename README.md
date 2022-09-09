@@ -1,10 +1,10 @@
-# Electronica Diner - Eccomerce realizado bajo el marco de Coder House.
+# Electronic HC - Eccomerce realizado bajo el marco de Coder House.
 
 El proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
 ## Info
 
-Electronica Diner es un eccomerce que ofrece productos electronicas (hardware).
+Electronic HC es un eccomerce que ofrece productos electronicas (hardware).
 
 Tiene la posibilidad de listar estos productos, poder acceder a la vista unitaria y añadirlos al carrito.
 
